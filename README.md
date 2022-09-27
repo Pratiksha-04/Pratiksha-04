@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on **PowerBI & Tableau**
 
-- 💬 Ask me about **Python, Sql, BI**
+- 💬 Ask me about **Power BI, Sql, Azure**
 
 - 📫 How to reach me **pratikshakasekar4@gmail.com**
 
-- ⚡ Fun fact **I think I am funny & loves travelling**
+- ⚡ Fun fact **I think I am funny & loves watching movies & to travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
